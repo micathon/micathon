@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @micathon
-- 👀 I’m interested in starting a dot-com
+- 👀 I’m interested in starting a closed source dot-com
 - 🌱 I’m currently learning Java and OOP for a large project
-- 💞️ I’m looking to collaborate on my Aljebrist dot-com
+- 💞️ I’m looking to collaborate on my Fondapaint project
 - 📫 Reach me at hahnbytes@gmail.com
 
 <!---
