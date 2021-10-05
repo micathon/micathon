@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @micathon
-- 👀 I’m interested in starting a closed source dot-com
+- 👀 I’m interested in software development as a hobby
 - 🌱 I’m currently learning Java and OOP for a large project
-- 💞️ I’m looking to collaborate on my Fondapaint project
+- 💞️ I’m looking to collaborate on my Cooperscript project
 - 📫 Reach me at hahnbytes@gmail.com
 
 <!---
