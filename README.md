@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @micathon
 - 👀 I’m interested in starting a dot-com to monetize my project
 - 🌱 I’m currently learning Java and OOP for a large project
-- 💞️ I’m looking to collaborate on my Pongolyte project
+- 💞️ I’m looking to collaborate on my Psyberhood project
 - 📫 Reach me at hahnbytes@gmail.com
 
 <!---
